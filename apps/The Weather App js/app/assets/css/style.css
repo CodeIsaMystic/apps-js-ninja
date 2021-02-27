@@ -1,0 +1,29 @@
+/*********************
+________global    
+                *****/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  width: 100vw;
+  width: 100%;
+  color: #2a2a2a;
+  background: #eeedec;
+  font-size: 0.8em;
+  letter-spacing: .2em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial;
+}
+
+.container {
+  max-width: 400px;
+}
+
+.icon {
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
