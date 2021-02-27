@@ -4,7 +4,7 @@
  *            <code>                     *
  *****************************************/
 /* add your API KEY here  */
-const key = 'AoAQDmyGPz9deHZMpUf8omJPEm4QA2F2';
+const key = '';
 
 /**
  * get weather information
